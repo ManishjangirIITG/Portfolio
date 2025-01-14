@@ -18,7 +18,7 @@ export default function About() {
         </div>
 
         <div className="prose dark:prose-invert">
-          <p>Hi, I'm Manish Jangir a Web Developer passionate about [your key focus or specialty]. I thrive on creating impactful solutions and continuously pushing the boundaries of what's possible. With a strong foundation in Web Development , I've worked on projects that blend creativity with technical precision.
+          <p>Hi, I'm Manish Jangir a Web Developer passionate about Web Devlopment and Software Engineering. I thrive on creating impactful solutions and continuously pushing the boundaries of what's possible. With a strong foundation in Web Development , I've worked on projects that blend creativity with technical precision.
             </p>
 
             <p>
