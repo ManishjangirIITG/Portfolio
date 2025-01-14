@@ -2,8 +2,8 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
 const skills = [
-  "HTML","CSS","JavaScript", "Bootstrap","TailwindCSS","Express.js" , "TypeScript", "React", "Next.js", "Node.js","C",
-  "C++", "MongoDB", "AWS", "Docker"
+  "HTML","CSS","JavaScript", "Bootstrap","TailwindCSS","Express.js" , "TypeScript", "React", "Next.js", "Node.js",
+  "C/C++","Mongoose", "MongoDB", "AWS", "Docker","Python","Vite",
 ];
 
 export default function About() {
@@ -22,7 +22,7 @@ export default function About() {
             </p>
 
             <p>
-When I'm not immersed in my work, I enjoy [mention a personal hobby or interest], which keeps me inspired and energized. Feel free to browse my portfolio and reach out if you'd like to connect or collaborate!
+When I'm not immersed in my work, I enjoy exploring the outdoors and experimenting with new technologies, which keep me inspired and energized. Feel free to browse my portfolio and reach out if you'd like to connect or collaborate!
           </p>
         </div>
 
