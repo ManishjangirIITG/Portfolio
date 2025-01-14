@@ -6,8 +6,9 @@ import Image from "next/image";
 const projects = [
   {
     title: "Patreon Clone",
-    description: "Developed a platform for fans to support creators directly through secure payments utilizing the MERN stack (MongoDB, Express, React, Node.js) integrated with Next.js for server-side rendering and improved performance. The project featured user authentication and authorization using NextAuth for secure and seamless login processes. Incorporated Razorpay UPI payment gateway to enable smooth and reliable payment transactions for users. The application is designed with scalability and responsiveness in mind, ensuring a seamless experience across both desktop and mobile platforms ",
-    image: "https://private-user-images.githubusercontent.com/121192543/344087423-82662003-4fc6-4ae0-a937-8525a1bf5dea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY4NDM4NTUsIm5iZiI6MTczNjg0MzU1NSwicGF0aCI6Ii8xMjExOTI1NDMvMzQ0MDg3NDIzLTgyNjYyMDAzLTRmYzYtNGFlMC1hOTM3LTg1MjVhMWJmNWRlYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExNFQwODMyMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNGI0ODU4MGRjOWY2MGJmNDMwYTgyNWNjODg5MjQ4NDk2OWEyOGY0Y2QxMmEzYzZiZGU0ZGRmMmJlODUxMzNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9-HM2bj6D0bcQYyMUHHLqeGeYWLmK7KbJXklgNOYuRw",
+    description: 
+    "Developed a platform for fans to support creators directly through secure payments utilizing the MERN stack (MongoDB, Express, React, Node.js) integrated with Next.js for server-side rendering and improved performance. The project featured user authentication and authorization using NextAuth for secure and seamless login processes. Incorporated Razorpay UPI payment gateway to enable smooth and reliable payment transactions for users. The application is designed with scalability and responsiveness in mind, ensuring a seamless experience across both desktop and mobile platforms.",
+    image: "./Assets/patreon_clone.png",
     tags: ["Next.js", "React js", "MongoDB","Express js", "Node.js","NextAuth","Razorpay UPI Integration", "Postman"],
     link: "https://github.com/ManishjangirIITG/patreon_clone"
   },
@@ -28,7 +29,7 @@ const projects = [
   {
     title: "Weather Forecast Application",
     description: "Developed a responsive and user-friendly weather forecast application using Vite, React, and Tailwind CSS. Integrated the AccuWeather API to fetch and display current weather forecast, including city name, temperature, humidity, and weather conditions.Implemented error handling for invalid inputs and network issues. Utilized Axios for API requests and configured a proxy server to manage CORS errors, ensuring seamless data retrieval and display.",
-    image: "https://private-user-images.githubusercontent.com/121192543/343775285-72ee1bd5-dc68-44ca-9c4e-04e64a37f9fc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY4NDUzNjksIm5iZiI6MTczNjg0NTA2OSwicGF0aCI6Ii8xMjExOTI1NDMvMzQzNzc1Mjg1LTcyZWUxYmQ1LWRjNjgtNDRjYS05YzRlLTA0ZTY0YTM3ZjlmYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExNFQwODU3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hOTIwNmRiOTk3NGFjMWRkNzY3YzU1N2Y1NDQzMDdiNDRiOGVhMzE4ZmY1MzNlMTAzYTk1ZjU0OTcxNGU5ZDBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.J_spK0MU1Fqwec6VIwahbVpPvyjY-8YnxBYYb1ttIz8",
+    image: "./Assets/Weather_Forcasting.png",
     tags: ["HTML","CSS","Javascript","Vite","React","Tailwind CSS","AccuWeather API","Axios", "CORS"],
     link: "https://github.com/ManishjangirIITG/Spotify-Clone"
   }
